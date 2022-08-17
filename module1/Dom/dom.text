@@ -1,0 +1,39 @@
+
+
+*** important topic in Dom-- Document Object Model
+
+Dom defines:
+The event for All html element
+The methods to access all HTML elements
+The properties of all HTML elements
+All HTML elements as Objects
+
+
+Find the HTML elements in 4 ways
+1. getElementById
+2. getElementByClassName
+3. getElementByTagName
+4. querySelector & querySelectorAll
+
+
+JavaScript event:
+1. ONCHANGE
+2. ONCLICK
+3. ONEMOUSEOVER
+4. ONKEYDOWN
+5. ONBLUR
+6. ONLOAD
+
+
+
+** event handler
+An event handler is a routine that deals with the event, allowing a programmer to write code that is executed when the event occurs
+with the help of event attributes.
+
+
+Event capturing:
+Start from top element to the target element
+
+
+stop propogation:
+The stopPropagation() method of Event interface prevents further propagation of the current event in the capturing and bubbling phases.
